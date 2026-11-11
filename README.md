@@ -15,8 +15,7 @@ Remote-trigger a robot, toggle lights or relays, start and stop animations, open
 ## Images
 
 <!-- Replace with product photos and demo video -->
-![RF Remote Receiver breakout](images/rf-remote-receiver-1.jpg)
-![Key fob and receiver](images/rf-remote-receiver-2.jpg)
+j<img width="180" height="150" alt="20261109_204020" src="https://github.com/user-attachments/assets/63b79d02-3f35-456c-9546-2674c79141b1" />
 
 ## Features
 
